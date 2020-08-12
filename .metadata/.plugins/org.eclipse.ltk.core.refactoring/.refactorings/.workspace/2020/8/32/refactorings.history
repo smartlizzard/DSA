@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;HackerRank_Arrays - DS&apos; to &apos;HackerRank_Arrays-DS&apos;&#x0D;&#x0A;- Original element: &apos;HackerRank_Arrays - DS&apos;&#x0D;&#x0A;- Renamed element: &apos;HackerRank_Arrays - DS&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;HackerRank_Arrays - DS&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=HackerRank_Arrays - DS" name="HackerRank_Arrays-DS" references="true" stamp="1596913207743" version="1.0"/>
+</session>

@@ -1,0 +1,20 @@
+
+public class ClaculateFrequency {
+	
+	public static void frequency(String s) {
+		
+		char ch='a';
+		for(int i=1; i<26;i++) {
+			System.out.println(ch);
+			ch++;
+		}
+		
+	}
+
+	public static void main(String[] args) {
+		string s="aaabbbbcccjjjjjkkkkkmmmmmmzzzzz"
+		frequency(s);
+
+	}
+
+}

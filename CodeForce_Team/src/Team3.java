@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Team3 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n= sc.nextInt();
+		int p=0;
+		int q=0;
+		int r=0;
+		for(int i=0; i<n;i++) {
+			p=sc.nextInt();
+			q=sc.nextInt();
+			r=sc.nextInt();
+		}
+   System.out.println(p+q+r);
+	}
+
+}

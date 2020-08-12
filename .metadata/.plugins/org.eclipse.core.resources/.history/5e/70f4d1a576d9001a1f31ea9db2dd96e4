@@ -1,0 +1,22 @@
+
+public class Solution {
+	
+	 // Complete the reverseArray function below.
+    static int[] reverseArray(int[] a) {
+                int n=a.length;
+                int[] arr= new int[n];
+             for(int i=a.length; i<=0;i--){
+                      arr=a[i];
+             }       
+                
+
+          return arr;          
+
+    }
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

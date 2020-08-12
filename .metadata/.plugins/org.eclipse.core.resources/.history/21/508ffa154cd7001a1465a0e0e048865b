@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Team {
+
+/*
+ * https://codeforces.com/problemset/problem/231/A	
+ */
+
+	public static void main(String[] args) {
+		Scanner sc= new Scanner(System.in);
+	}
+
+}
